@@ -1,4 +1,4 @@
-# Preprocessing Data Penjualan - Kelompok 5
+# Preprocessing Data Penjualan-Kelompok 5
 
 Repositori ini berisi tahapan *data preprocessing* (pra-pemrosesan data) yang dilakukan pada dataset penjualan (`SCB_dataset_preprocessing_penjualan.csv`). Proses ini bertujuan untuk membersihkan, mentransformasikan, dan menyiapkan data agar siap digunakan untuk pemodelan analisis atau machine learning selanjutnya.
 
