@@ -1,0 +1,401 @@
+﻿Order_ID,Customer_ID,Jenis_Kelamin,Kota,Kategori_Produk,Metode_Pembayaran,Jumlah_Barang,Harga_Satuan,Diskon_Persen,Lama_Pengiriman_Hari,Rating_Pelanggan,Total_Belanja
+SCB-ORD0001,SCB-CUST015,Perempuan,Takalar,Kesehatan,Kartu Kredit,2,696101,30,5,5.0,974541.0
+SCB-ORD0002,SCB-CUST220,Laki-laki,Takalar,Elektronik,COD,1,4677390,5,2,4.1,4443520.0
+SCB-ORD0003,SCB-CUST010,Laki-laki,Maros,Kesehatan,Kartu Kredit,2,154647,25,4,3.1,231970.0
+SCB-ORD0004,SCB-CUST161,Laki-laki,Makassar,Kesehatan,Kartu Kredit,1,536223,0,6,3.9,536223.0
+SCB-ORD0005,SCB-CUST057,Laki-laki,Takalar,Makanan,E-Wallet,1,16092,5,5,4.3,15287.0
+SCB-ORD0006,SCB-CUST197,Laki-laki,Maros,Makanan,Transfer Bank,1,193870,10,3,4.7,174483.0
+SCB-ORD0007,SCB-CUST090,Perempuan,Gowa,Rumah Tangga,E-Wallet,3,438097,15,2,4.0,1117147.0
+SCB-ORD0008,SCB-CUST084,Laki-laki,Makassar,Rumah Tangga,Kartu Kredit,1,,10,6,4.4,1685014.0
+SCB-ORD0009,SCB-CUST174,Perempuan,Bone,Rumah Tangga,COD,1,699280,25,6,5.0,524460.0
+SCB-ORD0010,SCB-CUST004,Laki-laki,Maros,Fashion,Kartu Kredit,3,438191,15,5,4.3,1117387.0
+SCB-ORD0011,SCB-CUST207,Laki-laki,Bone,Kesehatan,Transfer Bank,2,803740,0,3,4.1,1607480.0
+SCB-ORD0012,SCB-CUST050,,Gowa,Elektronik,Kartu Kredit,4,5718388,0,4,4.1,22873552.0
+SCB-ORD0013,SCB-CUST202,Laki-laki,Bone,Kesehatan,Kartu Kredit,5,58072,10,5,3.3,261324.0
+SCB-ORD0014,SCB-CUST022,Laki-laki,Makassar,Rumah Tangga,Transfer Bank,1,392365,15,1,4.3,333510.0
+SCB-ORD0015,SCB-CUST153,LAKI-LAKI,Takalar,Kesehatan,Kartu Kredit,2,82990,20,1,2.8,132784.0
+SCB-ORD0016,SCB-CUST189,Perempuan,Takalar,Makanan,Kartu Kredit,1,172854,5,7,4.6,164211.0
+SCB-ORD0017,SCB-CUST077,Perempuan,Parepare,Rumah Tangga,Transfer Bank,1,1194578,30,7,3.9,836205.0
+SCB-ORD0018,SCB-CUST107,Perempuan,Gowa,Rumah Tangga,Transfer Bank,6,1497760,10,5,3.5,8087904.0
+SCB-ORD0019,SCB-CUST061,Laki-laki,Gowa,Rumah Tangga,Transfer Bank,2,1616111,30,3,4.2,2262555.0
+SCB-ORD0020,SCB-CUST041,Perempuan,Makassar,Makanan,,2,144646,5,5,3.6,274827.0
+SCB-ORD0021,SCB-CUST217,Perempuan,Makassar,Makanan,Transfer Bank,1,161446,5,6,4.0,153374.0
+SCB-ORD0022,SCB-CUST020,Perempuan,Makassar,Elektronik,Kartu Kredit,4,2774674,25,4,4.3,8324022.0
+SCB-ORD0023,SCB-CUST178,Laki-laki,Maros,Makanan,E-Wallet,5,75963,10,3,3.9,341834.0
+SCB-ORD0024,SCB-CUST061,Perempuan,Gowa,Kesehatan,Transfer Bank,3,715009,10,2,4.4,1930524.0
+SCB-ORD0025,SCB-CUST089,Perempuan,MAROS,Rumah Tangga,E-Wallet,2,1842085,5,7,3.7,3499962.0
+SCB-ORD0026,SCB-CUST094,Perempuan,Gowa,Elektronik,Kartu Kredit,3,4653916,20,5,4.7,11169398.0
+SCB-ORD0027,SCB-CUST152,Perempuan,Parepare,Rumah Tangga,E-Wallet,3,1655790,10,1,4.8,4470633.0
+SCB-ORD0028,SCB-CUST057,Laki-laki,Bone,Elektronik,Transfer Bank,2,986478,25,5,3.1,1479717.0
+SCB-ORD0029,SCB-CUST018,Laki-laki,Takalar,Fashion,Transfer Bank,2,930474,15,5,5.0,1581806.0
+SCB-ORD0030,SCB-CUST203,Laki-laki,Bone,Elektronik,COD,2,2898262,20,4,,4637219.0
+SCB-ORD0031,SCB-CUST131,Perempuan,Gowa,Fashion,E-Wallet,1,180716,20,2,4.4,144573.0
+SCB-ORD0032,SCB-CUST031,Laki-laki,Parepare,Makanan,E-Wallet,4,345784,15,6,4.1,1175666.0
+SCB-ORD0033,SCB-CUST077,Perempuan,Maros,Kesehatan,E-Wallet,2,899032,20,2,3.4,1438451.0
+SCB-ORD0034,SCB-CUST016,Perempuan,,Elektronik,Kartu Kredit,5,3033110,20,5,4.8,12132440.0
+SCB-ORD0035,SCB-CUST198,Perempuan,Gowa,Kesehatan,COD,1,518982,5,5,3.9,493033.0
+SCB-ORD0036,SCB-CUST089,Laki-laki,Gowa,Elektronik,E-Wallet,50,5293482,15,2,2.7,4499460.0
+SCB-ORD0037,SCB-CUST138,Laki-laki,Makassar,Rumah Tangga,Transfer Bank,3,1550752,0,6,3.6,4652256.0
+SCB-ORD0038,SCB-CUST132,Laki-laki,Parepare,Rumah Tangga,Transfer Bank,2,564304,25,9,4.0,846456.0
+SCB-ORD0039,SCB-CUST062,Perempuan,Gowa,Kesehatan,Transfer Bank,1,699926,0,1,3.5,699926.0
+SCB-ORD0040,SCB-CUST085,Perempuan,Parepare,Rumah Tangga,E-Wallet,1,337682,10,3,4.3,303914.0
+SCB-ORD0041,SCB-CUST067,Laki-laki,Gowa,Rumah Tangga,COD,6,767594,5,4,4.2,4375286.0
+SCB-ORD0042,SCB-CUST208,Laki-laki,Takalar,Rumah Tangga,Kartu Kredit,2,1965548,5,7,4.7,3734541.0
+SCB-ORD0043,SCB-CUST013,Perempuan,Bone,Kesehatan,Transfer Bank,2,59295,10,4,3.0,106731.0
+SCB-ORD0044,SCB-CUST077,Perempuan,Parepare,Elektronik,Kartu Kredit,2,529376,15,3,3.7,899939.0
+SCB-ORD0045,SCB-CUST036,Perempuan,Gowa,Kesehatan,COD,2,667119,20,2,4.2,1067390.0
+SCB-ORD0046,SCB-CUST046,Perempuan,Makassar,Kesehatan,COD,2,499846,20,8,3.7,799754.0
+SCB-ORD0047,SCB-CUST075,Perempuan,Gowa,Fashion,Transfer Bank,3,958615,0,,3.3,2875845.0
+SCB-ORD0048,SCB-CUST058,Perempuan,Makassar,Elektronik,E-Wallet,1,5675796,30,2,4.6,3973057.0
+SCB-ORD0049,SCB-CUST122,Perempuan,Gowa,Fashion,Kartu Kredit,1,685441,20,6,4.9,548353.0
+SCB-ORD0050,SCB-CUST122,Perempuan,Makassar,Kesehatan,Kartu Kredit,1,431087,25,5,3.6,323315.0
+SCB-ORD0051,SCB-CUST003,Laki-laki,Parepare,Kesehatan,Kartu Kredit,1,333641,25,2,4.7,250231.0
+SCB-ORD0052,SCB-CUST115,Laki-laki,Takalar,Rumah Tangga,Transfer Bank,1,1214429,15,4,3.0,1032265.0
+SCB-ORD0053,SCB-CUST119,,Parepare,Kesehatan,COD,5,126407,30,1,4.9,442424.0
+SCB-ORD0054,SCB-CUST043,Perempuan,Takalar,Makanan,E-Wallet,1,128577,5,4,4.5,122148.0
+SCB-ORD0055,SCB-CUST198,Laki-laki,Takalar,Elektronik,Transfer Bank,1,5372492,15,6,4.4,4566618.0
+SCB-ORD0056,SCB-CUST199,Laki-laki,Gowa,Elektronik,Ewallet,6,3259594,25,4,4.5,14668173.0
+SCB-ORD0057,SCB-CUST010,Perempuan,Parepare,Rumah Tangga,E-Wallet,1,1237878,30,4,5.0,866515.0
+SCB-ORD0058,SCB-CUST185,Perempuan,Parepare,Elektronik,Kartu Kredit,2,1881654,15,7,4.2,3198812.0
+SCB-ORD0059,SCB-CUST158,Laki-laki,Parepare,Rumah Tangga,Kartu Kredit,1,1916014,30,3,4.7,1341210.0
+SCB-ORD0060,SCB-CUST143,Perempuan,Bone,Makanan,E-Wallet,4,189563,20,4,3.0,606602.0
+SCB-ORD0061,SCB-CUST143,Laki-laki,Makassar,Kesehatan,Transfer Bank,3,357927,25,1,4.0,805336.0
+SCB-ORD0062,SCB-CUST204,Laki-laki,Bone,Elektronik,COD,3,5508873,20,7,4.1,13221295.0
+SCB-ORD0063,SCB-CUST164,Laki-laki,Takalar,Fashion,E-Wallet,1,960204,0,5,5.0,960204.0
+SCB-ORD0064,SCB-CUST052,Laki-laki,Takalar,Makanan ,E-Wallet,4,1028692,5,6,4.2,3909030.0
+SCB-ORD0065,SCB-CUST142,Laki-laki,Parepare,Fashion,Kartu Kredit,1,577722,0,6,4.4,577722.0
+SCB-ORD0066,SCB-CUST067,Laki-laki,Takalar,Kesehatan,COD,1,414897,5,1,4.2,394152.0
+SCB-ORD0067,SCB-CUST109,Laki-laki,Maros,Makanan,Transfer Bank,1,43067,0,1,4.1,43067.0
+SCB-ORD0068,SCB-CUST219,Laki-laki,Makassar,Kesehatan,E-Wallet,1,430368,30,5,2.7,301258.0
+SCB-ORD0069,SCB-CUST070,Perempuan,Takalar,Elektronik,Kartu Kredit,1,2208125,10,4,4.8,1987312.0
+SCB-ORD0070,SCB-CUST089,perempuan,Takalar,Rumah Tangga,Kartu Kredit,2,236461,15,8,3.7,401984.0
+SCB-ORD0071,SCB-CUST046,Perempuan,Makassar,Rumah Tangga,Transfer Bank,1,292576,20,6,3.6,234061.0
+SCB-ORD0072,SCB-CUST146,Perempuan,Makassar,Makanan,Kartu Kredit,2,182822,20,7,5.0,292515.0
+SCB-ORD0073,SCB-CUST173,Perempuan,Parepare,Makanan,Transfer Bank,6,29464,25,5,5.0,132588.0
+SCB-ORD0074,SCB-CUST143,Laki-laki,Gowa,Elektronik,COD,3,5990719,20,5,5.0,14377726.0
+SCB-ORD0075,SCB-CUST195,Laki-laki,,Elektronik,E-Wallet,5,5049642,15,1,4.5,21460978.0
+SCB-ORD0076,SCB-CUST011,Perempuan,Gowa,Makanan,Kartu Kredit,3,169060,10,3,4.8,456462.0
+SCB-ORD0077,SCB-CUST051,Laki-laki,Parepare,Fashion,COD,1,1026055,30,3,3.3,718238.0
+SCB-ORD0078,SCB-CUST074,Perempuan,Maros,Rumah Tangga,E-Wallet,2,979407,5,2,4.7,1860873.0
+SCB-ORD0079,SCB-CUST195,Perempuan,Takalar,Makanan,Transfer Bank,1,342548,10,5,4.9,308293.0
+SCB-ORD0080,SCB-CUST197,Laki-laki,Takalar,Fashion,E-Wallet,3,147554,20,3,4.5,354130.0
+SCB-ORD0081,SCB-CUST182,Laki-laki,Makassar,Kesehatan,Transfer Bank,1,594623,20,3,4.5,475698.0
+SCB-ORD0082,SCB-CUST151,Laki-laki,Takalar,Rumah Tangga,Transfer Bank,4,,10,4,4.2,2657275.0
+SCB-ORD0083,SCB-CUST141,Perempuan,Makassar,Rumah Tangga,Kartu Kredit,4,1751821,10,4,4.8,6306556.0
+SCB-ORD0084,SCB-CUST190,Perempuan,Bone,Kesehatan,Transfer Bank,1,158660,10,2,5.0,142794.0
+SCB-ORD0085,SCB-CUST206,Laki-laki,Takalar,Fashion,COD,2,714142,15,1,3.7,1214041.0
+SCB-ORD0086,SCB-CUST175,Laki-laki,Maros,Fashion,COD,1,368820,0,8,2.7,368820.0
+SCB-ORD0087,SCB-CUST207,Laki-laki,Parepare,Kesehatan,E-Wallet,4,497280,30,1,3.9,1392384.0
+SCB-ORD0088,SCB-CUST095,Laki-laki,Parepare,Makanan,Kartu Kredit,1,200508,5,6,3.9,190483.0
+SCB-ORD0089,SCB-CUST067,Laki-laki,Takalar,Makanan,E-Wallet,2,301309,5,5,4.7,572487.0
+SCB-ORD0090,SCB-CUST046,Laki-laki,Takalar,Kesehatan,Transfer Bank,1,616229,5,5,4.1,585418.0
+SCB-ORD0091,SCB-CUST040,Laki-laki,Maros,Kesehatan,Transfer Bank,4,381884,30,4,4.8,1069275.0
+SCB-ORD0092,SCB-CUST090,Laki-laki,Takalar,Elektronik,COD,1,4522919,0,5,4.4,4522919.0
+SCB-ORD0093,SCB-CUST158,Perempuan,Maros,Fashion,COD,1,580062,30,6,4.6,406043.0
+SCB-ORD0094,SCB-CUST046,Perempuan,Maros,Fashion,Transfer Bank,1,1092845,25,7,4.7,819634.0
+SCB-ORD0095,SCB-CUST060,Laki-laki,Makassar,Kesehatan,,5,307063,0,6,4.9,1535315.0
+SCB-ORD0096,SCB-CUST130,Laki-laki,Parepare,Makanan,COD,2,214351,20,6,3.5,342962.0
+SCB-ORD0097,SCB-CUST018,Perempuan,Takalar,Rumah Tangga,COD,4,1862600,20,5,5.0,5960320.0
+SCB-ORD0098,SCB-CUST010,Perempuan,Maros,Makanan,COD,2,107538,10,6,4.9,193568.0
+SCB-ORD0099,SCB-CUST067,Laki-laki,Maros,Makanan,COD,2,42000000,20,6,3.5,438245.0
+SCB-ORD0100,SCB-CUST169,Perempuan,Takalar,Rumah Tangga,Transfer Bank,2,111248,10,9,4.9,200246.0
+SCB-ORD0101,SCB-CUST097,Laki-laki,Takalar,Rumah Tangga,Transfer Bank,1,61219,20,3,4.4,48975.0
+SCB-ORD0102,SCB-CUST126,Perempuan,Bone,Fashion,Transfer Bank,2,312933,20,7,4.4,500693.0
+SCB-ORD0103,SCB-CUST043,Laki-laki,Bone,Fashion,Kartu Kredit,2,1147653,20,5,4.6,1836245.0
+SCB-ORD0104,SCB-CUST028,Perempuan,Maros,Kesehatan,Kartu Kredit,1,509418,10,5,4.2,458476.0
+SCB-ORD0105,SCB-CUST084,Perempuan,Bone,Rumah Tangga,COD,1,844814,25,7,5.0,633610.0
+SCB-ORD0106,SCB-CUST002,Laki-laki,Makassar,Rumah Tangga,Transfer Bank,1,1373353,10,7,4.9,1236018.0
+SCB-ORD0107,SCB-CUST100,Perempuan,Maros,Kesehatan,Transfer Bank,5,130075,5,5,4.0,617856.0
+SCB-ORD0108,SCB-CUST156,,Maros,Fashion,COD,1,123662,15,7,4.0,105113.0
+SCB-ORD0109,SCB-CUST132,Laki-laki,Parepare,Elektronik,E-Wallet,1,429524,20,3,3.5,343619.0
+SCB-ORD0110,SCB-CUST168,Laki-laki,Takalar,Rumah Tangga,Kartu Kredit,2,696122,0,4,4.0,1392244.0
+SCB-ORD0111,SCB-CUST202,Laki-laki,Maros,Makanan,E-Wallet,5,10055,30,4,4.3,35192.0
+SCB-ORD0112,SCB-CUST021,Laki-laki,Makassar,Rumah Tangga,E-Wallet,2,48208,5,6,2.9,91595.0
+SCB-ORD0113,SCB-CUST182,Laki-laki,Bone,Fashion,E-Wallet,2,192595,0,1,4.2,385190.0
+SCB-ORD0114,SCB-CUST047,Perempuan,Takalar,Makanan,Kartu Kredit,1,241626,30,5,3.2,169138.0
+SCB-ORD0115,SCB-CUST009,Perempuan,Makassar,Rumah Tangga,Transfer Bank,2,1835987,20,1,3.6,2937579.0
+SCB-ORD0116,SCB-CUST184,Laki-laki,Takalar,Fashion,Kartu Kredit,5,510870,10,5,4.0,2298915.0
+SCB-ORD0117,SCB-CUST092,Laki-laki,Gowa,Rumah Tangga,COD,1,1685726,5,2,5.0,1601440.0
+SCB-ORD0118,SCB-CUST135,Perempuan,Parepare,Makanan,Transfer Bank,2,205332,20,2,4.4,328531.0
+SCB-ORD0119,SCB-CUST137,Laki-laki,Gowa,Rumah Tangga,Kartu Kredit,1,1270619,20,6,3.9,1016495.0
+SCB-ORD0120,SCB-CUST118,Perempuan,Parepare,Makanan,Transfer Bank,1,33722,15,4,4.4,28664.0
+SCB-ORD0121,SCB-CUST156,Laki-laki,Maros,Kesehatan,E-Wallet,5,20186,25,5,,75698.0
+SCB-ORD0122,SCB-CUST118,Laki-laki,Parepare,Elektronik,Kartu Kredit,1,2916461,5,4,3.6,2770638.0
+SCB-ORD0123,SCB-CUST211,Laki-laki,Takalar,Kesehatan,E-Wallet,1,837335,5,7,5.0,795468.0
+SCB-ORD0124,SCB-CUST158,Laki-laki,Parepare,Rumah Tangga,COD,2,1037505,10,3,4.1,1867509.0
+SCB-ORD0125,SCB-CUST065,Perempuan,Makassar,Elektronik,E-Wallet,1,2184637,25,2,4.5,1638478.0
+SCB-ORD0126,SCB-CUST086,Laki-laki,Maros,Rumah Tangga,Transfer Bank,2,748993,15,4,4.5,1273288.0
+SCB-ORD0127,SCB-CUST052,Perempuan,Maros,Fashion,COD,1,230767,10,50,4.8,207690.0
+SCB-ORD0128,SCB-CUST164,Perempuan,Makassar,Rumah Tangga,Kartu Kredit,1,755222,30,4,4.7,528655.0
+SCB-ORD0129,SCB-CUST207,Perempuan,Bone,Rumah Tangga,COD,1,1729166,10,6,3.4,1556249.0
+SCB-ORD0130,SCB-CUST219,Laki-laki,Makassar,Rumah Tangga,Transfer Bank,1,1365205,0,2,5.0,1365205.0
+SCB-ORD0131,SCB-CUST203,Laki-laki,Makassar,Makanan,COD,2,305747,5,3,3.5,580919.0
+SCB-ORD0132,SCB-CUST077,Laki-laki,Takalar,Fashion,COD,1,387608,25,7,4.3,290706.0
+SCB-ORD0133,SCB-CUST216,Perempuan,Maros,Makanan,E-Wallet,2,175640,20,5,4.5,281024.0
+SCB-ORD0134,SCB-CUST164,Laki-laki,Gowa,Fashion,Transfer Bank,3,,10,4,4.4,1697558.0
+SCB-ORD0135,SCB-CUST006,LK,Gowa,Makanan,COD,4,204761,0,4,4.5,819044.0
+SCB-ORD0136,SCB-CUST065,Laki-laki,Gowa,Kesehatan,Kartu Kredit,1,550736,25,9,4.2,413052.0
+SCB-ORD0137,SCB-CUST095,Perempuan,Makassar,Rumah Tangga,Kartu Kredit,1,1606135,5,2,4.2,1525828.0
+SCB-ORD0138,SCB-CUST093,Perempuan,Maros,Fashion,COD,1,722952,25,2,5.0,542214.0
+SCB-ORD0139,SCB-CUST198,Perempuan,Takalar,Fashion,E-Wallet,1,900454,20,2,4.2,720363.0
+SCB-ORD0140,SCB-CUST169,Laki-laki,Makassar,Makanan,Transfer Bank,1,126540,5,1,3.7,120213.0
+SCB-ORD0141,SCB-CUST103,Laki-laki,Takalar,Fashion,Transfer Bank,3,910312,0,3,5.0,2730936.0
+SCB-ORD0142,SCB-CUST203,Laki-laki,Gowa,Fashion,COD,2,1187127,20,4,5.0,1899403.0
+SCB-ORD0143,SCB-CUST042,Perempuan,Gowa,Makanan,COD,3,297746,10,2,4.5,803914.0
+SCB-ORD0144,SCB-CUST204,Laki-laki,Takalar,Fashion,Kartu Kredit,1,563331,25,3,3.9,422498.0
+SCB-ORD0145,SCB-CUST202,Perempuan,Gowa,Fashion,COD,1,240163,5,5,5.0,228155.0
+SCB-ORD0146,SCB-CUST002,Perempuan,Bone,Fashion,E-Wallet,1,869850,5,8,3.0,826358.0
+SCB-ORD0147,SCB-CUST163,Perempuan,Maros,Rumah Tangga,Transfer Bank,4,55862,30,5,4.1,156414.0
+SCB-ORD0148,SCB-CUST022,Laki-laki,Maros,Kesehatan,E-Wallet,2,293013,10,6,4.1,527423.0
+SCB-ORD0149,SCB-CUST211,Laki-laki,Parepare,Elektronik,Transfer Bank,1,1684732,30,2,4.3,1179312.0
+SCB-ORD0150,SCB-CUST143,Perempuan,Takalar,Kesehatan,Transfer Bank,3,361650,30,7,4.6,759465.0
+SCB-ORD0151,SCB-CUST050,Laki-laki,Takalar,Makanan,COD,1,126561,10,8,4.3,113905.0
+SCB-ORD0152,SCB-CUST189,Laki-laki,,Elektronik,Transfer Bank,2,2202155,0,8,4.8,4404310.0
+SCB-ORD0153,SCB-CUST177,Laki-laki,Makassar,Kesehatan,COD,3,481434,10,8,4.2,1299872.0
+SCB-ORD0154,SCB-CUST050,Laki-laki,Maros,Makanan,E-Wallet,4,79146,105,5,2.8,237438.0
+SCB-ORD0155,SCB-CUST050,Perempuan,Maros,Fashion,Kartu Kredit,4,399102,5,3,5.0,1516588.0
+SCB-ORD0156,SCB-CUST012,Perempuan,Gowa,Fashion,E-Wallet,5,303739,5,3,5.0,1442760.0
+SCB-ORD0157,SCB-CUST048,Perempuan,Maros,Makanan,Kartu Kredit,2,189959,10,6,4.6,341926.0
+SCB-ORD0158,SCB-CUST084,Perempuan,Maros,Fashion,COD,5,859198,20,1,4.7,3436792.0
+SCB-ORD0159,SCB-CUST110,Perempuan,Gowa,Rumah Tangga,E-Wallet,1,1959054,0,2,3.0,1959054.0
+SCB-ORD0160,SCB-CUST078,Laki-laki,Makassar,Makanan,COD,3,202930,15,4,5.0,517472.0
+SCB-ORD0161,SCB-CUST111,Laki-laki,Takalar,Makanan,Kartu Kredit,2,141827,20,3,4.9,226923.0
+SCB-ORD0162,SCB-CUST177,Perempuan,Makassar,Kesehatan,E-Wallet,2,357360,5,5,4.3,678984.0
+SCB-ORD0163,SCB-CUST073,Laki-laki,Makassar,Makanan,Kartu Kredit,1,165921,10,8,2.8,149329.0
+SCB-ORD0164,SCB-CUST128,Perempuan,Gowa,Fashion,Kartu Kredit,1,901386,25,5,4.5,676040.0
+SCB-ORD0165,SCB-CUST211,Laki-laki,Parepare,Kesehatan,COD,3,111262,25,,3.1,250340.0
+SCB-ORD0166,SCB-CUST089,Perempuan,Takalar,Makanan,E-Wallet,2,269096,30,6,3.5,376734.0
+SCB-ORD0167,SCB-CUST099,Laki-laki,Bone,Rumah Tangga,COD,3,1780266,30,5,3.4,3738559.0
+SCB-ORD0168,SCB-CUST041,Perempuan,Makassar,Elektronik,Transfer Bank,1,5778297,5,6,3.5,5489382.0
+SCB-ORD0169,SCB-CUST059,Laki-laki,Takalar,Elektronik,E-Wallet,3,4605240,10,7,4.9,12434148.0
+SCB-ORD0170,SCB-CUST190,Perempuan,Bone,Fashion,E-Wallet,4,1029644,5,6,4.7,3912647.0
+SCB-ORD0171,SCB-CUST114,Laki-laki,Parepare,Makanan,E-Wallet,4,333408,30,4,3.9,933542.0
+SCB-ORD0172,SCB-CUST048,Laki-laki,Maros,Kesehatan,E-Wallet,2,629939,30,3,3.8,881915.0
+SCB-ORD0173,SCB-CUST019,Laki-laki,Maros,Makanan,E-Wallet,2,35332,10,2,4.8,63598.0
+SCB-ORD0174,SCB-CUST162,Perempuan,Bone,Elektronik,COD,1,3714391,30,5,3.9,2600074.0
+SCB-ORD0175,SCB-CUST210,Laki-laki,takalar,Fashion,Kartu Kredit,1,293035,30,3,5.0,205124.0
+SCB-ORD0176,SCB-CUST099,Laki-laki,Maros,Rumah Tangga,Transfer Bank,3,1978809,30,6,4.0,4155499.0
+SCB-ORD0177,SCB-CUST198,Laki-laki,Takalar,Elektronik,COD,5,5075399,15,2,4.7,21570446.0
+SCB-ORD0178,SCB-CUST121,Laki-laki,Parepare,Kesehatan,Transfer Bank,1,738337,10,3,3.9,664503.0
+SCB-ORD0179,SCB-CUST002,Perempuan,Parepare,Rumah Tangga,,2,902320,30,1,4.2,1263248.0
+SCB-ORD0180,SCB-CUST005,Perempuan,Maros,Kesehatan,COD,1,470141,5,8,3.5,446634.0
+SCB-ORD0181,SCB-CUST094,Perempuan,Makassar,Rumah Tangga,Kartu Kredit,1,1616786,5,2,3.9,1535947.0
+SCB-ORD0182,SCB-CUST145,Laki-laki,Bone,Makanan,Kartu Kredit,3,318952,10,5,4.2,861170.0
+SCB-ORD0183,SCB-CUST161,Laki-laki,Bone,Fashion,Transfer Bank,1,266298,20,1,3.6,213038.0
+SCB-ORD0184,SCB-CUST170,Laki-laki,Takalar,Rumah Tangga,E-Wallet,1,1092298,25,8,4.5,819224.0
+SCB-ORD0185,SCB-CUST167,Perempuan,Makassar,Kesehatan,E-Wallet,1,524962,30,5,3.1,367473.0
+SCB-ORD0186,SCB-CUST134,Perempuan,Makassar,Kesehatan,E-Wallet,1,485200,10,4,4.5,436680.0
+SCB-ORD0187,SCB-CUST172,Laki-laki,Bone,Fashion,Kartu Kredit,3,517182,20,6,3.9,1241237.0
+SCB-ORD0188,SCB-CUST035,Laki-laki,Takalar,Elektronik,Transfer Bank,3,1491112,30,5,6.5,3131335.0
+SCB-ORD0189,SCB-CUST047,Laki-laki,Makassar,Makanan,Kartu Kredit,1,302190,0,2,3.4,302190.0
+SCB-ORD0190,SCB-CUST084,Perempuan,Takalar,Makanan,Transfer Bank,1,311430,15,2,4.3,264716.0
+SCB-ORD0191,SCB-CUST042,,Bone,Kesehatan,Kartu Kredit,3,21558,5,8,4.5,61440.0
+SCB-ORD0192,SCB-CUST059,Perempuan,Takalar,Kesehatan,Kartu Kredit,5,292351,10,4,3.9,1315580.0
+SCB-ORD0193,SCB-CUST085,Perempuan,Makassar,Fashion,Kartu Kredit,2,315345,10,8,4.1,567621.0
+SCB-ORD0194,SCB-CUST155,Laki-laki,Parepare,Makanan,E-Wallet,2,289136,30,6,5.0,404790.0
+SCB-ORD0195,SCB-CUST013,Perempuan,Takalar,Elektronik,Transfer Bank,1,1738849,15,3,5.0,1478022.0
+SCB-ORD0196,SCB-CUST104,Laki-laki,Parepare,Fashion,COD,1,484763,0,2,4.2,484763.0
+SCB-ORD0197,SCB-CUST089,Laki-laki,Maros,Fashion,Kartu Kredit,1,877406,15,4,4.7,745795.0
+SCB-ORD0198,SCB-CUST162,Perempuan,Maros,Fashion,COD,1,371373,20,5,4.1,297098.0
+SCB-ORD0199,SCB-CUST104,Perempuan,Parepare,Rumah Tangga,COD,2,609841,30,7,4.2,853777.0
+SCB-ORD0200,SCB-CUST085,Perempuan,Gowa,Kesehatan,COD,3,501656,0,5,5.0,1504968.0
+SCB-ORD0201,SCB-CUST090,Perempuan,Parepare,Elektronik,Transfer Bank,5,420252,25,5,4.2,1575945.0
+SCB-ORD0202,SCB-CUST122,Laki-laki,Parepare,Elektronik,bank transfer,3,3886970,15,4,4.3,9911774.0
+SCB-ORD0203,SCB-CUST124,Perempuan,Maros,Rumah Tangga,Kartu Kredit,3,78345,5,5,2.7,223283.0
+SCB-ORD0204,SCB-CUST209,Perempuan,Maros,Makanan,E-Wallet,4,202256,30,3,3.2,566317.0
+SCB-ORD0205,SCB-CUST091,Laki-laki,Parepare,Fashion,Transfer Bank,2,1022599,10,8,3.6,1840678.0
+SCB-ORD0206,SCB-CUST140,Laki-laki,Parepare,Rumah Tangga,COD,3,164646,15,4,,419847.0
+SCB-ORD0207,SCB-CUST014,Perempuan,Takalar,Makanan,Transfer Bank,3,20542,30,3,4.6,43138.0
+SCB-ORD0208,SCB-CUST074,Laki-laki,Maros,Kesehatan,E-Wallet,2,437047,20,8,4.2,699275.0
+SCB-ORD0209,SCB-CUST210,Perempuan,Makassar,Fashion,COD,3,404470,5,3,4.8,1152740.0
+SCB-ORD0210,SCB-CUST087,Laki-laki,Gowa,Rumah Tangga,Kartu Kredit,2,610927,0,2,3.0,1221854.0
+SCB-ORD0211,SCB-CUST171,Laki-laki,Parepare,Elektronik,Transfer Bank,2,1796733,15,3,3.6,3054446.0
+SCB-ORD0212,SCB-CUST202,Perempuan,Bone,Fashion,E-Wallet,4,1153750,25,4,4.5,3461250.0
+SCB-ORD0213,SCB-CUST195,Perempuan,Maros,Makanan,Transfer Bank,4,242291,25,5,3.6,726873.0
+SCB-ORD0214,SCB-CUST181,Laki-laki,Bone,Kesehatan,COD,3,203249,15,5,4.0,518285.0
+SCB-ORD0215,SCB-CUST150,Laki-laki,Maros,Makanan,E-Wallet,2,306320,5,8,4.2,777777
+SCB-ORD0216,SCB-CUST070,Laki-laki,Parepare,Rumah Tangga,Kartu Kredit,3,818284,15,8,4.5,2086624.0
+SCB-ORD0217,SCB-CUST067,Perempuan,Bone,Elektronik,Kartu Kredit,1,2765666,25,1,4.0,2074250.0
+SCB-ORD0218,SCB-CUST046,Perempuan,Parepare,Kesehatan,Transfer Bank,2,871186,20,2,3.6,1393898.0
+SCB-ORD0219,SCB-CUST006,Perempuan,Maros,Elektronik,Transfer Bank,4,,0,7,3.6,15485776.0
+SCB-ORD0220,SCB-CUST074,Perempuan,Maros,Kesehatan,Transfer Bank,4,48261,0,7,3.8,193044.0
+SCB-ORD0221,SCB-CUST127,Laki-laki,Bone,Fashion,Transfer Bank,3,64454,5,7,3.7,183694.0
+SCB-ORD0222,SCB-CUST082,Perempuan,Bone,Rumah Tangga,Kartu Kredit,2,470640,30,5,4.4,658896.0
+SCB-ORD0223,SCB-CUST192,Laki-laki,Parepare,Rumah Tangga,Transfer Bank,5,106369,10,4,3.9,478660.0
+SCB-ORD0224,SCB-CUST106,Laki-laki,Parepare,kesehatan,COD,2,1380630,15,8,4.1,2347071.0
+SCB-ORD0225,SCB-CUST063,Laki-laki,Maros,Makanan,Kartu Kredit,2,274268,10,5,3.8,493682.0
+SCB-ORD0226,SCB-CUST194,Perempuan,Bone,Rumah Tangga,Transfer Bank,1,1516463,10,2,3.4,1364817.0
+SCB-ORD0227,SCB-CUST079,Perempuan,Bone,Elektronik,COD,5,4274038,30,4,3.7,14959133.0
+SCB-ORD0228,SCB-CUST011,Laki-laki,Takalar,Fashion,COD,1,1022451,15,4,3.6,869083.0
+SCB-ORD0229,SCB-CUST173,Laki-laki,Takalar,Fashion,COD,2,801290,25,4,3.9,1201935.0
+SCB-ORD0230,SCB-CUST147,Perempuan,Parepare,Rumah Tangga,Transfer Bank,75,235833,25,3,4.6,353750.0
+SCB-ORD0231,SCB-CUST100,Perempuan,Takalar,Fashion,Kartu Kredit,2,165432,30,2,4.5,231605.0
+SCB-ORD0232,SCB-CUST046,Laki-laki,Bone,Elektronik,E-Wallet,3,5346847,0,3,4.2,16040541.0
+SCB-ORD0233,SCB-CUST034,Perempuan,Makassar,Fashion,Kartu Kredit,5,522077,20,4,4.1,2088308.0
+SCB-ORD0234,SCB-CUST148,Laki-laki,Makassar,Elektronik,Transfer Bank,4,328202,25,7,4.7,984606.0
+SCB-ORD0235,SCB-CUST171,Perempuan,Maros,Makanan,Kartu Kredit,1,117631,25,4,4.4,88223.0
+SCB-ORD0236,SCB-CUST042,Laki-laki,Maros,Kesehatan,Transfer Bank,2,830877,25,3,4.1,1246316.0
+SCB-ORD0237,SCB-CUST004,Laki-laki,Parepare,Rumah Tangga,Kartu Kredit,5,244231,30,6,4.7,854808.0
+SCB-ORD0238,SCB-CUST070,Laki-laki,Gowa,Rumah Tangga,E-Wallet,4,132074,15,7,3.8,449052.0
+SCB-ORD0239,SCB-CUST142,Perempuan,Parepare,Kesehatan,Kartu Kredit,3,363109,20,2,4.7,871462.0
+SCB-ORD0240,SCB-CUST175,Laki-laki,Gowa,Rumah Tangga,Kartu Kredit,1,1442594,30,3,4.6,1009816.0
+SCB-ORD0241,SCB-CUST078,Laki-laki,Maros,Rumah Tangga,COD,2,1638181,30,1,3.8,2293453.0
+SCB-ORD0242,SCB-CUST029,Laki-laki,Bone,Elektronik,Kartu Kredit,3,435179,5,4,4.0,1240260.0
+SCB-ORD0243,SCB-CUST157,Laki-laki,Gowa,Fashion,Transfer Bank,2,857718,5,5,4.6,1629664.0
+SCB-ORD0244,SCB-CUST069,Perempuan,Gowa,Rumah Tangga,COD,4,830002,0,6,3.5,3320008.0
+SCB-ORD0245,SCB-CUST214,Perempuan,Bone,Fashion,Kartu Kredit,3,411072,20,1,4.9,986573.0
+SCB-ORD0246,SCB-CUST073,Perempuan,,Makanan,Transfer Bank,2,178868,10,7,3.7,321962.0
+SCB-ORD0247,SCB-CUST176,Laki-laki,Takalar,Kesehatan,COD,1,475573,30,5,3.5,332901.0
+SCB-ORD0248,SCB-CUST052,Perempuan,Parepare,Kesehatan,Transfer Bank,1,771345,5,6,3.6,732778.0
+SCB-ORD0249,SCB-CUST147,Laki-laki,Bone,Makanan,Kartu Kredit,4,90777,20,3,3.5,290486.0
+SCB-ORD0250,SCB-CUST161,Laki-laki,Bone,Fashion,E-Wallet,1,600553,10,3,4.1,540498.0
+SCB-ORD0251,SCB-CUST099,Perempuan,Takalar,Fashion,COD,2,520502,25,5,5.0,780753.0
+SCB-ORD0252,SCB-CUST201,Laki-laki,Makassar,Kesehatan,COD,5,455683,5,5,4.5,2164494.0
+SCB-ORD0253,SCB-CUST173,Laki-laki,Bone,Makanan,E-Wallet,2,198035,10,,5.0,356463.0
+SCB-ORD0254,SCB-CUST197,Perempuan,Makassar,Kesehatan,COD,2,838702,5,5,3.6,1593534.0
+SCB-ORD0255,SCB-CUST095,Laki-laki,Takalar,Kesehatan,Transfer Bank,2,601994,25,5,4.1,902991.0
+SCB-ORD0256,SCB-CUST046,Laki-laki,Bone,Fashion,Transfer Bank,4,856723,5,5,4.4,3255547.0
+SCB-ORD0257,SCB-CUST060,Laki-laki,Maros,Kesehatan,E-Wallet,5,300330,10,7,4.7,1351485.0
+SCB-ORD0258,SCB-CUST166,Laki-laki,Gowa,Makanan,Kartu Kredit,1,41266,20,4,3.6,33013.0
+SCB-ORD0259,SCB-CUST191,Perempuan,Maros,Kesehatan,Kartu Kredit,1,357324,30,2,3.9,250127.0
+SCB-ORD0260,SCB-CUST164,Perempuan,Bone,Rumah Tangga,Transfer Bank,2,1132789,10,4,3.5,2039020.0
+SCB-ORD0261,SCB-CUST154,Laki-laki,Parepare,Makanan,E-Wallet,1,11207,30,3,3.0,7845.0
+SCB-ORD0262,SCB-CUST127,Laki-laki,Maros,Fashion,COD,1,637136,30,6,4.7,445995.0
+SCB-ORD0263,SCB-CUST189,Laki-laki,Makassar,Fashion,E-Wallet,1,1172270,5,7,4.0,1113656.0
+SCB-ORD0264,SCB-CUST138,Perempuan,Bone,Kesehatan,,3,360370,20,7,4.9,864888.0
+SCB-ORD0265,SCB-CUST081,Laki-laki,Bone,Fashion,Transfer Bank,5,363563,20,4,4.0,1454252.0
+SCB-ORD0266,SCB-CUST195,Perempuan,Bone,Fashion,E-Wallet,2,1042566,0,5,4.1,2085132.0
+SCB-ORD0267,SCB-CUST101,Laki-laki,Bone,Kesehatan,COD,2,789828,0,4,4.1,1579656.0
+SCB-ORD0268,SCB-CUST187,PR,Makassar,Elektronik,Transfer Bank,1,2130342,30,5,4.4,1491239.0
+SCB-ORD0269,SCB-CUST096,Perempuan,Gowa,Rumah Tangga,Kartu Kredit,1,1532702,0,3,4.3,1532702.0
+SCB-ORD0270,SCB-CUST050,Perempuan,Parepare,Makanan,Transfer Bank,2,328816,10,6,4.6,591869.0
+SCB-ORD0271,SCB-CUST042,Perempuan,Makassar,Makanan,Kartu Kredit,3,305352,20,3,4.0,732845.0
+SCB-ORD0272,SCB-CUST177,Perempuan,Makassar,Rumah Tangga,E-Wallet,4,1325510,10,6,5.0,4771836.0
+SCB-ORD0273,SCB-CUST177,Perempuan,Maros,Rumah Tangga,Kartu Kredit,5,626034,20,3,4.6,2504136.0
+SCB-ORD0274,SCB-CUST098,Perempuan,Parepare,Makanan,COD,1,337487,0,5,3.0,337487.0
+SCB-ORD0275,SCB-CUST093,Laki-laki,Makassar,Kesehatan,COD,3,660892,0,4,4.3,1982676.0
+SCB-ORD0276,SCB-CUST175,Laki-laki,Bone,Fashion,E-Wallet,1,75193,10,4,4.9,67674.0
+SCB-ORD0277,SCB-CUST149,Perempuan,Makassar,Kesehatan,COD,3,142928,25,6,5.0,321588.0
+SCB-ORD0278,SCB-CUST202,Perempuan,Maros,Makanan,Kartu Kredit,3,230270,15,3,3.4,587188.0
+SCB-ORD0279,SCB-CUST209,Perempuan,Gowa,Rumah Tangga,Transfer Bank,2,1602685,20,5,5.0,2564296.0
+SCB-ORD0280,SCB-CUST115,Laki-laki,Takalar,Makanan,Kartu Kredit,4,308664,25,5,3.0,925992.0
+SCB-ORD0281,SCB-CUST031,Laki-laki,Maros,Makanan,Kartu Kredit,3,156033,0,2,3.2,468099.0
+SCB-ORD0282,SCB-CUST067,,Takalar,Fashion,Transfer Bank,6,142720,25,6,4.2,642240.0
+SCB-ORD0283,SCB-CUST114,Perempuan,Parepare,Rumah Tangga,Transfer Bank,4,861451,10,5,4.5,3101224.0
+SCB-ORD0284,SCB-CUST210,Perempuan,Maros,Elektronik,COD,1,5775898,15,4,4.2,4909513.0
+SCB-ORD0285,SCB-CUST046,Perempuan,Bone,Makanan,E-Wallet,1,234274,30,5,3.5,163992.0
+SCB-ORD0286,SCB-CUST127,Perempuan,Bone,Rumah Tangga,Transfer Bank,1,1687517,10,6,3.6,1518765.0
+SCB-ORD0287,SCB-CUST181,Perempuan,Bone,Rumah Tangga,E-Wallet,3,371169,30,3,3.5,779455.0
+SCB-ORD0288,SCB-CUST193,Laki-laki,Gowa,Fashion,COD,6,55000000,25,6,3.6,1961388.0
+SCB-ORD0289,SCB-CUST006,Laki-laki,Makassar,Rumah Tangga,COD,3,1645265,5,6,4.6,4689005.0
+SCB-ORD0290,SCB-CUST115,Laki-laki,Parepare,Fashion,E-Wallet,2,400677,20,5,3.2,641083.0
+SCB-ORD0291,SCB-CUST043,Perempuan,Gowa,Fashion,Transfer Bank,3,807415,20,6,4.8,1937796.0
+SCB-ORD0292,SCB-CUST117,Perempuan,Parepare,Kesehatan,COD,1,106937,15,4,3.6,90896.0
+SCB-ORD0293,SCB-CUST030,Laki-laki,Maros,Makanan,E-Wallet,1,222454,25,3,3.2,166840.0
+SCB-ORD0294,SCB-CUST095,Perempuan,Parepare,Kesehatan,COD,3,589748,20,3,3.8,1415395.0
+SCB-ORD0295,SCB-CUST169,Laki-laki,Gowa,Makanan,Transfer Bank,1,43608,30,3,4.6,30526.0
+SCB-ORD0296,SCB-CUST049,Laki-laki,Makassar,Elektronik,COD,3,3094513,25,2,,6962654.0
+SCB-ORD0297,SCB-CUST057,Perempuan,Maros,Fashion,Transfer Bank,3,212862,5,6,5.0,606657.0
+SCB-ORD0298,SCB-CUST186,Perempuan,Parepare,Kesehatan,Kartu Kredit,5,655634,30,3,3.7,2294719.0
+SCB-ORD0299,SCB-CUST181,Laki-laki,Gowa,Elektronik,Kartu Kredit,6,5550178,25,2,4.3,24975801.0
+SCB-ORD0300,SCB-CUST188,Laki-laki,Takalar,Rumah Tangga,E-Wallet,3,360850,25,5,4.8,811912.0
+SCB-ORD0301,SCB-CUST076,Perempuan,Gowa,Kesehatan,Kartu Kredit,4,854860,30,7,4.0,2393608.0
+SCB-ORD0302,SCB-CUST147,Perempuan,Maros,Kesehatan,Kartu Kredit,3,619335,-15,3,4.2,1300604.0
+SCB-ORD0303,SCB-CUST115,Perempuan,Makassar,Elektronik,E-Wallet,5,4425064,30,3,3.7,15487724.0
+SCB-ORD0304,SCB-CUST183,Laki-laki,Gowa,Rumah Tangga,Transfer Bank,2,895076,0,4,3.7,1790152.0
+SCB-ORD0305,SCB-CUST120,Laki-laki,Makassar,Elektronik,E-Wallet,1,3621742,20,5,3.5,2897394.0
+SCB-ORD0306,SCB-CUST171,Perempuan,Maros,Elektronik,COD,1,1222099,30,6,4.9,855469.0
+SCB-ORD0307,SCB-CUST208,Laki-laki,Makassar,Kesehatan,E-Wallet,1,,20,3,3.8,615801.0
+SCB-ORD0308,SCB-CUST117,Laki-laki,Gowa,Elektronik,Kartu Kredit,2,3649581,0,4,4.5,7299162.0
+SCB-ORD0309,SCB-CUST127,Laki-laki,Maros,Fashion,Transfer Bank,1,361494,0,3,4.0,361494.0
+SCB-ORD0310,SCB-CUST154,Laki-laki,Takalar,Rumah Tangga,COD,2,479319,0,5,4.1,958638.0
+SCB-ORD0311,SCB-CUST054,Perempuan,Makassar,Makanan,Transfer Bank,6,11504,15,7,3.6,58670.0
+SCB-ORD0312,SCB-CUST126,Laki-laki,Pare Pare,Makanan,E-Wallet,5,122293,25,4,4.0,458599.0
+SCB-ORD0313,SCB-CUST119,Perempuan,Bone,Elektronik,E-Wallet,4,988825,5,6,4.3,3757535.0
+SCB-ORD0314,SCB-CUST077,Perempuan,Parepare,Fashion,Kartu Kredit,2,561822,15,8,2.5,955097.0
+SCB-ORD0315,SCB-CUST110,Perempuan,Maros,Kesehatan,COD,5,196319,30,3,3.6,687116.0
+SCB-ORD0316,SCB-CUST120,Laki-laki,Bone,Elektronik,Kartu Kredit,4,1114206,10,6,4.4,4011142.0
+SCB-ORD0317,SCB-CUST162,Laki-laki,Parepare,Fashion,Transfer Bank,1,914022,5,3,4.4,868321.0
+SCB-ORD0318,SCB-CUST099,Perempuan,Parepare,Rumah Tangga,Kartu Kredit,2,966702,0,5,3.8,1933404.0
+SCB-ORD0319,SCB-CUST118,Perempuan,Bone,Rumah Tangga,Kartu Kredit,1,1099991,0,4,4.5,1099991.0
+SCB-ORD0320,SCB-CUST213,Laki-laki,Parepare,Elektronik,COD,2,3693575,0,5,5.0,7387150.0
+SCB-ORD0321,SCB-CUST185,Perempuan,Parepare,Rumah Tangga,Kartu Kredit,4,706625,15,6,2.8,2402525.0
+SCB-ORD0322,SCB-CUST125,Laki-laki,,Fashion,Transfer Bank,5,703915,10,5,4.1,3167618.0
+SCB-ORD0323,SCB-CUST111,Perempuan,Takalar,Elektronik,E-Wallet,1,4870036,5,5,3.5,4626534.0
+SCB-ORD0324,SCB-CUST129,Laki-laki,Parepare,Kesehatan,Transfer Bank,2,723721,25,2,4.5,1085582.0
+SCB-ORD0325,SCB-CUST157,Perempuan,Gowa,Kesehatan,Kartu Kredit,2,240716,15,9,4.0,409217.0
+SCB-ORD0326,SCB-CUST219,Laki-laki,Maros,Elektronik,COD,1,279121,5,7,4.2,265165.0
+SCB-ORD0327,SCB-CUST108,Laki-laki,Parepare,Makanan,E-Wallet,1,45790,0,6,4.1,45790.0
+SCB-ORD0328,SCB-CUST202,Perempuan,Takalar,Kesehatan,COD,3,175195,5,4,3.5,499306.0
+SCB-ORD0329,SCB-CUST181,Perempuan,Makassar,Fashion,Kartu Kredit,2,1015891,30,4,4.7,1422247.0
+SCB-ORD0330,SCB-CUST006,Perempuan,Parepare,Elektronik,KartuKredit,5,3051378,0,4,4.1,15256890.0
+SCB-ORD0331,SCB-CUST028,Laki-laki,Parepare,Elektronik,Kartu Kredit,1,467996,10,5,3.7,421196.0
+SCB-ORD0332,SCB-CUST172,Laki-laki,Makassar,Elektronik,E-Wallet,3,1168367,20,3,4.9,2804081.0
+SCB-ORD0333,SCB-CUST203,Perempuan,Makassar,Kesehatan,COD,2,475335,30,5,4.0,665469.0
+SCB-ORD0334,SCB-CUST204,Perempuan,Parepare,Rumah Tangga,E-Wallet,2,561327,0,8,4.3,1122654.0
+SCB-ORD0335,SCB-CUST090,Perempuan,Takalar,Makanan,E-Wallet,1,141283,15,2,2.8,120091.0
+SCB-ORD0336,SCB-CUST037,Laki-laki,Makassar,Makanan,COD,1,111628,15,1,4.7,94884.0
+SCB-ORD0337,SCB-CUST045,Laki-laki,Parepare,Kesehatan,COD,2,540430,15,,5.0,918731.0
+SCB-ORD0338,SCB-CUST066,Laki-laki,Bone,Fashion,Kartu Kredit,2,996358,20,7,5.0,1594173.0
+SCB-ORD0339,SCB-CUST220,Laki-laki,Parepare,Elektronik,Kartu Kredit,2,5142872,25,4,4.6,7714308.0
+SCB-ORD0340,SCB-CUST176,Laki-laki,Gowa,Fashion,Transfer Bank,1,1168739,15,6,3.9,993428.0
+SCB-ORD0341,SCB-CUST057,Perempuan,Makassar,Rumah Tangga,E-Wallet,2,834713,25,4,3.9,1252070.0
+SCB-ORD0342,SCB-CUST051,Laki-laki,Gowa,Kesehatan,Kartu Kredit,2,649659,10,5,3.8,1169386.0
+SCB-ORD0343,SCB-CUST097,Laki-laki,Gowa,Makanan,COD,1,36859,25,70,4.8,27644.0
+SCB-ORD0344,SCB-CUST209,Perempuan,Maros,Fashion,E-Wallet,3,431698,10,4,4.0,1165585.0
+SCB-ORD0345,SCB-CUST018,Laki-laki,Makassar,Kesehatan,,4,99161,30,4,3.6,277651.0
+SCB-ORD0346,SCB-CUST002,Perempuan,Takalar,Elektronik,E-Wallet,1,5248648,10,5,4.8,4723783.0
+SCB-ORD0347,SCB-CUST201,Perempuan,Parepare,Makanan,E-Wallet,1,111512,10,7,4.7,100361.0
+SCB-ORD0348,SCB-CUST016,Perempuan,Bone,Makanan,COD,4,18423,0,4,4.1,73692.0
+SCB-ORD0349,SCB-CUST181,Perempuan,Parepare,Fashion,E-Wallet,6,749698,5,6,3.7,4273279.0
+SCB-ORD0350,SCB-CUST087,Laki-laki,Parepare,Kesehatan,Transfer Bank,2,78364,10,2,4.8,141055.0
+SCB-ORD0351,SCB-CUST154,Perempuan,Bone,Rumah Tangga,Kartu Kredit,1,507670,15,5,3.2,431520.0
+SCB-ORD0352,SCB-CUST216,Laki-laki,Gowa,Rumah-tangga,COD,2,601491,20,7,4.8,962386.0
+SCB-ORD0353,SCB-CUST107,Perempuan,Parepare,Rumah Tangga,Kartu Kredit,2,647272,15,1,3.9,222222
+SCB-ORD0354,SCB-CUST192,Perempuan,Maros,Elektronik,E-Wallet,2,4576909,10,2,4.3,8238436.0
+SCB-ORD0355,SCB-CUST147,Perempuan,Gowa,Elektronik,Kartu Kredit,4,5123142,15,5,4.6,17418683.0
+SCB-ORD0356,SCB-CUST043,Laki-laki,Maros,Fashion,COD,5,272097,5,6,4.4,1292461.0
+SCB-ORD0357,SCB-CUST073,Perempuan,Makassar,Rumah Tangga,Kartu Kredit,1,390913,25,3,3.4,293185.0
+SCB-ORD0358,SCB-CUST170,Perempuan,Bone,Makanan,E-Wallet,2,175965,5,6,3.4,334334.0
+SCB-ORD0359,SCB-CUST159,Laki-laki,Gowa,Elektronik,COD,5,494179,15,5,3.6,2100261.0
+SCB-ORD0360,SCB-CUST135,Perempuan,Bone,Fashion,Kartu Kredit,4,1118607,5,1,3.0,4250707.0
+SCB-ORD0361,SCB-CUST070,Laki-laki,Parepare,Rumah Tangga,Kartu Kredit,1,1151774,20,4,,921419.0
+SCB-ORD0362,SCB-CUST054,Laki-laki,Takalar,Rumah Tangga,E-Wallet,4,511084,20,6,3.1,1635469.0
+SCB-ORD0363,SCB-CUST211,Laki-laki,Parepare,Fashion,COD,1,270496,20,4,4.4,216397.0
+SCB-ORD0364,SCB-CUST001,Laki-laki,Makassar,Fashion,COD,2,220096,25,6,4.0,330144.0
+SCB-ORD0365,SCB-CUST051,Laki-laki,Maros,Elektronik,Transfer Bank,2,5433741,10,1,3.6,9780734.0
+SCB-ORD0366,SCB-CUST188,Perempuan,Bone,Elektronik,E-Wallet,4,4901829,25,6,-1.0,14705487.0
+SCB-ORD0367,SCB-CUST185,Perempuan,Takalar,Elektronik,E-Wallet,1,311995,5,4,4.4,296395.0
+SCB-ORD0368,SCB-CUST063,Laki-laki,Gowa,Elektronik,COD,6,1578627,5,6,4.4,8998174.0
+SCB-ORD0369,SCB-CUST012,Perempuan,Maros,Elektronik,Kartu Kredit,2,528453,30,7,5.0,739834.0
+SCB-ORD0370,SCB-CUST096,Perempuan,Makassar,Fashion,Kartu Kredit,2,723898,25,5,4.1,1085847.0
+SCB-ORD0371,SCB-CUST008,Perempuan,Takalar,Elektronik,COD,1,5248662,0,7,3.9,5248662.0
+SCB-ORD0372,SCB-CUST050,Laki-laki,Parepare,Elektronik,Transfer Bank,3,,10,2,3.7,961529.0
+SCB-ORD0373,SCB-CUST215,Perempuan,Takalar,Makanan,Kartu Kredit,1,188076,5,4,4.5,178672.0
+SCB-ORD0374,SCB-CUST034,Laki-laki,Makassar,Elektronik,Kartu Kredit,3,2782968,20,7,4.5,6679123.0
+SCB-ORD0375,SCB-CUST067,Laki-laki,Bone,Makanan,Transfer Bank,4,132712,25,2,4.3,398136.0
+SCB-ORD0376,SCB-CUST194,Laki-laki,Gowa,Rumah Tangga,Transfer Bank,1,777968,5,5,4.7,739070.0
+SCB-ORD0377,SCB-CUST019,Laki-laki,Makassar,Elektronik,E-Wallet,2,1625481,20,5,4.2,2600770.0
+SCB-ORD0378,SCB-CUST118,Perempuan,Bone,Rumah Tangga,Kartu Kredit,1,1251337,30,6,4.0,875936.0
+SCB-ORD0379,SCB-CUST124,Laki-laki,Parepare,Makanan,E-Wallet,2,287061,10,7,4.4,516710.0
+SCB-ORD0380,SCB-CUST034,Perempuan,Gowa,Makanan,E-Wallet,2,166808,10,6,3.3,300254.0
+SCB-ORD0381,SCB-CUST166,Laki-laki,Gowa,Fashion,Transfer Bank,2,1141671,10,1,4.0,2055008.0
+SCB-ORD0382,SCB-CUST156,Laki-laki,Takalar,Fashion,Transfer Bank,3,410410,5,8,4.9,1169668.0
+SCB-ORD0383,SCB-CUST159,Perempuan,Maros,Fashion,Kartu Kredit,1,1196986,5,4,4.6,1137137.0
+SCB-ORD0384,SCB-CUST113,Laki-laki,Takalar,Fashion,Kartu Kredit,1,294741,20,4,3.3,235793.0
+SCB-ORD0385,SCB-CUST143,Perempuan,Makassar,Kesehatan,Transfer Bank,1,440965,15,4,3.9,374820.0
+SCB-ORD0386,SCB-CUST022,Laki-laki,Gowa,Elektronik,Transfer Bank,1,2956581,25,5,4.4,2217436.0
+SCB-ORD0387,SCB-CUST025,Laki-laki,Gowa,Fashion,Kartu Kredit,1,106525,10,1,5.0,95872.0
+SCB-ORD0388,SCB-CUST213,Laki-laki,Bone,Makanan,Transfer Bank,2,293157,15,3,3.3,498367.0
+SCB-ORD0389,SCB-CUST188,Perempuan,,Kesehatan,COD,5,164157,10,7,4.7,738706.0
+SCB-ORD0390,SCB-CUST190,Perempuan,Bone,Rumah Tangga,E-Wallet,1,428537,10,6,5.0,385683.0
+SCB-ORD0391,SCB-CUST191,Perempuan,Parepare,Kesehatan,E-Wallet,2,306058,15,6,4.1,520299.0
+SCB-ORD0392,SCB-CUST080,Laki-laki,Takalar,Kesehatan,COD,3,82685,10,5,4.0,223250.0
+SCB-ORD0393,SCB-CUST202,Laki-laki,Makassar,Fashion,E-Wallet,4,1129662,30,3,5.0,3163054.0
+SCB-ORD0394,SCB-CUST143,Perempuan,Gowa,Makanan,Transfer Bank,1,193307,5,5,4.1,183642.0
+SCB-ORD0395,SCB-CUST065,Perempuan,Takalar,Elektronik,COD,1,4198580,25,4,4.4,3148935.0
+SCB-ORD0031,SCB-CUST131,Perempuan,Gowa,Fashion,E-Wallet,1,180716,20,2,4.4,144573.0
+SCB-ORD0096,SCB-CUST130,Laki-laki,Parepare,Makanan,COD,2,214351,20,6,3.5,342962.0
+SCB-ORD0181,SCB-CUST094,Perempuan,Makassar,Rumah Tangga,Kartu Kredit,1,1616786,5,2,3.9,1535947.0
+SCB-ORD0271,SCB-CUST042,Perempuan,Makassar,Makanan,Kartu Kredit,3,305352,20,3,4.0,732845.0
+SCB-ORD0386,SCB-CUST022,Laki-laki,Gowa,Elektronik,Transfer Bank,1,2956581,25,5,4.4,2217436.0
